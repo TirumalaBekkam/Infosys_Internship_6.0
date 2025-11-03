@@ -17,6 +17,9 @@ Meal Details: Breakfast, Lunch, Dinner, Snack Suggestions
 Health Factors: Diseases 
 Other Attributes: Rating, Price
 
+<img width="1369" height="776" alt="Screenshot 2025-11-03 194143" src="https://github.com/user-attachments/assets/f268c022-342c-4bce-94c5-88844f989f2e" />
+
+
 💡 Conclusion
 
 This Power BI project demonstrates how data-driven visualization can reveal important dietary trends and lifestyle correlations.
